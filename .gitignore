@@ -1,0 +1,5 @@
+*/.terraform
+*/kubeconfig*
+*/terraform*
+*/venv/
+venv/
